@@ -48,4 +48,10 @@ Make sure to update the `products` section with the latest products to keep the 
 
 Contributions to this repository are welcome. If you find any issues or want to enhance the website, please feel free to create a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 _This readme file provides an overview of the Mivi Earphones website's codebase and how to use it. For more detailed information, refer to the individual HTML, CSS, and JavaScript files._
